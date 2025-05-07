@@ -63,7 +63,7 @@
   <div class="card">
     <div class="emoji">🎀✨🐣</div>
     <h1>Hai Kamu~</h1>
-    <p>Selamat datang di halaman lucu 💖<br>Ayo mulai petualangan imutmu!</p>
+    <p>Selamat datang💖<br>Mau tidak ?!</p>
     <a href="#" class="btn">Mulai Yuk!</a>
   </div>
 </body>
