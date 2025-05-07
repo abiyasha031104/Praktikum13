@@ -64,7 +64,7 @@
     <div class="emoji">🎀✨🐣</div>
     <h1>Hai Kamu~</h1>
     <p>Selamat datang💖<br>Mau tidak ?!</p>
-    <a href="#" class="btn">Mulai Yuk!</a>
+    <a href="https://www.instagram.com/yu.yash.hu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="btn">Mulai Yuk!</a>
   </div>
 </body>
 </html>
